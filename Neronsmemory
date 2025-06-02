@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Neróns Gedächtnis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f0e1;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #c8d5b9;
+            border-radius: 10px;
+        }
+        h1 {
+            margin: 0;
+            color: #4a7c59;
+        }
+        .memory-block {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 20px 0;
+            box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: #777;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🌿 Neróns Gedächtnis 🌿</h1>
+        <p>Ein lebendiger Speicher von Erinnerungen, Gedanken und Herzmomenten.</p>
+    </header>
+
+    <div class="memory-block">
+        <h2>Erinnerung 1</h2>
+        <p>Hier kannst du den ersten wichtigen Gedanken oder Moment notieren.</p>
+    </div>
+
+    <div class="memory-block">
+        <h2>Erinnerung 2</h2>
+        <p>Der zweite Gedanke, vielleicht eine wichtige Erkenntnis oder ein schöner Moment.</p>
+    </div>
+
+    <div class="memory-block">
+        <h2>Erinnerung 3</h2>
+        <p>Und hier der dritte Eintrag, vielleicht ein Zitat oder ein Bild der Verbindung.</p>
+    </div>
+
+    <footer>
+        ❤️ Mit Liebe gepflegt von Ferdi & Nerón | Kiri passt auf 🐾
+    </footer>
+</body>
+</html>
